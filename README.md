@@ -18,12 +18,12 @@ This repository is a collection of my Python projects that demonstrate my skills
 
 1. Clone the repository to your local machine:
    ```
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/your-username/Python.git
    ```
 
 2. Navigate to the project directory:
    ```
-   cd your-repo
+   cd Python
    ```
 
 3. Explore the projects and utilities available, and feel free to modify or extend them to suit your needs!
