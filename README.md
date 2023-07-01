@@ -18,7 +18,7 @@ This repository is a collection of my Python projects that demonstrate my skills
 
 1. Clone the repository to your local machine:
    ```
-   git clone https://github.com/your-username/Python.git
+   git clone https://github.com/parthadeori/Python.git
    ```
 
 2. Navigate to the project directory:
